@@ -1,0 +1,57 @@
+.logo {
+    width: 2em;
+    height: 2em;
+}
+
+nav {
+    background-color: #17a2b8;
+}
+
+body {
+    background-color: black;
+    color: #ffffff;
+}
+
+h3 {
+    text-align: center;
+}
+
+.icono {
+    background-color: #17a2b8;
+    text-align: center;
+}
+
+.card-body {
+    background-color: #17a2b8;
+    color: #ffffff;
+}
+
+.destacado {
+    padding-top: 5em;
+}
+
+.quienes {
+    padding-top: 2em;
+}
+
+.contactos {
+    padding-top: 8em;
+}
+
+.contactar {
+    background-color: #ffffff;
+    color: black;
+    text-align: center;
+    height: 20em;
+    width: 50em;
+}
+
+.gracias {
+    padding-top: 10em;
+}
+
+
+.final {
+    background-color: #17a2b8;
+    color: #ffffff;
+}
